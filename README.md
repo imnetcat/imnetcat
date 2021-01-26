@@ -13,7 +13,7 @@
 - Interesting in:
   - genetic algorithm, [code some experiments with it](https://github.com/imnetcat/ecosystem)
   - low level and network programming - write [console chat app](https://github.com/imnetcat/Chat-app) & [realization of SMTP protocol](https://github.com/imnetcat/cout)
-  - cybersecurity, exploiting 
+  - cybersecurity, vulnerability exploitation
   - cryptocurrencies and blockchain
 
 ### Languages and frameworks:
