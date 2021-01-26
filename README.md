@@ -8,10 +8,13 @@
 
 ## I'm a student, developer, and open source contributor !
 
-- Like genetic algorithm and code some experiments with it
 - Student of National Technical University of Ukraine 'Kyiv Polytechnic Institute'
-- Like low level and network programming
-- Intresting in cryptocurrencies
+- Member of Metarhia 
+- Interesting in:
+  - genetic algorithm, [code some experiments with it](https://github.com/imnetcat/ecosystem)
+  - low level and network programming - write [console chat app](https://github.com/imnetcat/Chat-app) & [realization of SMTP protocol](https://github.com/imnetcat/cout)
+  - cybersecurity, exploiting 
+  - cryptocurrencies and blockchain
 
 ### Languages and frameworks:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
