@@ -16,4 +16,3 @@
   - cybersecurity, vulnerability exploitation
   - cryptocurrencies and blockchain
 
----
